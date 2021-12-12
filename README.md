@@ -1,4 +1,4 @@
-# Frontend Mentor - Fylo Landing Page With Two Column Section
+# Frontend Mentor - Fylo Landing Page With Two Column Layout
 
 ![Design preview for the fylo landing page coding challenge](./design/desktop-preview.jpg)
 
@@ -8,13 +8,13 @@ Hello! Thanks for cheking out this repository.
 
 ## What is it about
 
-It's a solution of a junior challange called "Fylo landing Page With Two Column Section" made by Frontend Mentor.
+It's a solution of a junior challange called "Fylo landing Page With Two Column Layout" made by Frontend Mentor.
 
 Here is the link of the challange-
 https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5
 
 Here is the solution site url-
-https://drougnov.github.io/fylo-landing-page-with-two-column-section-master/
+ https://drougnov.github.io/fylo-landing-page-with-two-column-layout-master/
 
 ## Built with
 
